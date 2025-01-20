@@ -48,4 +48,4 @@ def validate(s):
 if __name__ == "__main__":
     import doctest
     if doctest.testmod().failed == 0:
-        print "\n*** ALL TESTS PASS; THAT'S SUPER-VALID WORK!\n"
+        print("\n*** ALL TESTS PASS; THAT'S SUPER-VALID WORK!\n")

@@ -53,4 +53,4 @@ def dump(s):
 if __name__ == "__main__":
     import doctest
     if doctest.testmod().failed == 0:
-        print "\n*** ALL TESTS PASS; NICE JOB!\n"
+        print("\n*** ALL TESTS PASS; NICE JOB!\n")

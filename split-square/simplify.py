@@ -54,4 +54,4 @@ def simplify(s):
 if __name__ == "__main__":
     import doctest
     if doctest.testmod().failed == 0:
-        print "\n*** ALL TESTS PASS; YOU MADE THAT SEEM SIMPLE!!\n"
+        print("\n*** ALL TESTS PASS; YOU MADE THAT SEEM SIMPLE!!\n")
